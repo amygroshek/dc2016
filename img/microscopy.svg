@@ -1,0 +1,13 @@
+<svg id="mermaidChart100" xmlns="http://www.w3.org/2000/svg" height="100%" viewBox="0 0 325 216" style="max-width:325px;"><style type="text/css" title="mermaid-svg-internal-css">/*  */
+#mermaidChart100 .node&gt;rect { ; }
+#mermaidChart100 .node text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart100 .edgeLabel text  { fill:#000; stroke:none; font-weight:300; font-family:"Helvetica Neue",Helvetica,Arial,sans-serf; font-size:14px; }
+#mermaidChart100 .cluster rect  { rx:4px; fill: rgb(255, 255, 222); rx: 4px; stroke: rgb(170, 170, 51); stroke-width: 1px; }
+*, ::before, ::after { box-sizing: inherit;}
+.mermaid .label { color: rgb(51, 51, 51);}
+.node rect, .node circle, .node polygon { fill: rgb(236, 236, 255); stroke: rgb(204, 204, 255); stroke-width: 1px;}
+.edgePath .path { stroke: rgb(51, 51, 51) !important;}
+text { font-family: 'trebuchet ms', verdana, arial; font-size: 14px;}
+#mermaidChart100 .box&gt;rect, .box&gt;polygon, .box&gt;ellipse { stroke:gray; fill:white; stroke-width:2px; font:arial; text-align:center; }
+/*  */
+</style><g><g class="output"><g class="clusters"></g><g class="edgePaths"><g class="edgePath" style="opacity: 1;"><path class="path" d="M152.5,62L152.5,87L152.5,112" marker-end="url(#arrowhead694)" style="stroke:gray;stroke-width:4px;fill:white;"></path><defs><marker id="arrowhead694" viewBox="0 0 10 10" refX="9" refY="5" markerUnits="strokeWidth" markerWidth="8" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" style="fill: #333"></path></marker></defs></g></g><g class="edgeLabels"><g class="edgeLabel" transform="" style="opacity: 1;"><g transform="translate(0,0)" class="label"><text><tspan xml:space="preserve" dy="1em" x="1"></tspan></text></g></g></g><g class="nodes"><g class="node box" id="A" transform="translate(152.5,41)" style="opacity: 1;"><rect rx="5" ry="5" x="-132.5" y="-21" width="265" height="42"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-122.5,-11)"><foreignObject width="245" height="22"><div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">Modern microscopy + Plant anatomy</div></foreignObject></g></g></g><g class="node box" id="D" transform="translate(152.5,144)" style="opacity: 1;"><rect rx="5" ry="5" x="-112.5" y="-32" width="225" height="64"></rect><g class="label" transform="translate(0,0)"><g transform="translate(-102.5,-22)"><foreignObject width="205" height="44"><div style="display: inline-block; white-space: nowrap;" xmlns="http://www.w3.org/1999/xhtml">Attempts to anthropomorphize<br> plant reproduction</div></foreignObject></g></g></g></g></g></g></svg>

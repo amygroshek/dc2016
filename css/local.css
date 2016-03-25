@@ -1,3 +1,21 @@
 .reveal .slides:first-of-type h1 {
     font-size: 2em;
 }
+
+.poetry {
+    text-align: left;
+}
+
+.reveal div .footnotes {
+    margin-top: 100px;
+    font-size: .5em;
+}
+
+.reveal .chain-parent {
+    width:100%;
+}
+
+.reveal .chain {
+    display:inline-block;
+    width:30%;
+}
